@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a9f776a-43ba-4f13-bd47-57188c2bdcf3" name="Changes" comment="" />
+    <list default="true" id="5a9f776a-43ba-4f13-bd47-57188c2bdcf3" name="Changes" comment="Swap two numbers" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +22,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -47,8 +48,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709082183570</updated>
-      <workItem from="1709082185244" duration="2000" />
+      <workItem from="1709082185244" duration="308000" />
     </task>
+    <task id="LOCAL-00001" summary="Swap two numbers">
+      <created>1709082455149</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709082455149</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Swap two numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Swap two numbers" />
   </component>
 </project>
