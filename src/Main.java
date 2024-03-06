@@ -1,19 +1,14 @@
 public class Main {
     public static void main(String[] args) {
 
-        int a = 10;
+        int i = 100;
 
-        int b = 20;
+        long l = i;
 
-        int temp = 0;
+        float f = l;
 
-        temp = b;
-
-        b = a;
-
-        a = temp;
-
-        System.out.println("Value after swapping for a is " +a);
-        System.out.println("Value after Swapping for b is " +b);
+        System.out.println("Integer is " +i);
+        System.out.println("long value is " +l);
+        System.out.println("Float value is " +f);
     }
 }
