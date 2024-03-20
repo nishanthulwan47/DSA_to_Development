@@ -4,19 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a9f776a-43ba-4f13-bd47-57188c2bdcf3" name="Changes" comment="Adding more files">
-      <change afterPath="$PROJECT_DIR$/src/ArithemeticProgression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BufferedReaderInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ByteStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FormatInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GFG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAstDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReadingInputFromConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ScannerDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ScannerInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumofNaturalNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+    <list default="true" id="5a9f776a-43ba-4f13-bd47-57188c2bdcf3" name="Changes" comment="pushing latest changes">
+      <change afterPath="$PROJECT_DIR$/src/GeometricProgression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SignedRightShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UnsignedRightShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bitwiseLogicalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sumofNNaturalNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twoSComplement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +49,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Operators">
+  <component name="RunManager" selected="Application.GeometricProgression">
     <configuration name="ArithemeticProgression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArithemeticProgression" />
       <module name="DSA to Development" />
@@ -63,29 +57,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LAstDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LAstDigit" />
+    <configuration name="GeometricProgression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GeometricProgression" />
       <module name="DSA to Development" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operators" />
+    <configuration name="SignedRightShift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SignedRightShift" />
       <module name="DSA to Development" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumofNaturalNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumofNaturalNumbers" />
+    <configuration name="UnsignedRightShift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnsignedRightShift" />
       <module name="DSA to Development" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+    <configuration name="sumofNNaturalNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sumofNNaturalNumbers" />
       <module name="DSA to Development" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Operators" />
+        <item itemvalue="Application.GeometricProgression" />
         <item itemvalue="Application.ArithemeticProgression" />
-        <item itemvalue="Application.LAstDigit" />
-        <item itemvalue="Application.SumofNaturalNumbers" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.sumofNNaturalNumbers" />
+        <item itemvalue="Application.UnsignedRightShift" />
+        <item itemvalue="Application.SignedRightShift" />
       </list>
     </recent_temporary>
   </component>
@@ -116,6 +110,8 @@
       <workItem from="1709823146951" duration="1813000" />
       <workItem from="1710186644419" duration="1037000" />
       <workItem from="1710350216917" duration="2293000" />
+      <workItem from="1710889288464" duration="4145000" />
+      <workItem from="1710947271117" duration="1665000" />
     </task>
     <task id="LOCAL-00001" summary="Swap two numbers">
       <created>1709082455149</created>
@@ -138,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709735811908</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="pushing latest changes">
+      <created>1710889338437</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710889338437</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +150,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Swap two numbers" />
     <MESSAGE value="Adding more files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding more files" />
+    <MESSAGE value="pushing latest changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="pushing latest changes" />
   </component>
 </project>
