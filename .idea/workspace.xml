@@ -4,14 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a9f776a-43ba-4f13-bd47-57188c2bdcf3" name="Changes" comment="pushing latest Dev changes">
-      <change afterPath="$PROJECT_DIR$/src/ContinueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IfElseNaturalNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NestedSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OddEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OmittingBreakStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Switch.java" afterDir="false" />
+    <list default="true" id="5a9f776a-43ba-4f13-bd47-57188c2bdcf3" name="Changes" comment="Pushing latest Changes to Repository.">
+      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IllustrateUseOFEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/BreakAndContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/CountDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/DivisorsUsingWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/FactorialOfaNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/FibonacciNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/ForLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/For_Each.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/GCDOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/LCMOfTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/PairOFIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Patterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/TableOfaNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/TryAndError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/isPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MoreSwitchCaseProblems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TotalNoOfDaysInaMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +56,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;15&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -50,49 +65,79 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NestedSwitch">
-    <configuration name="ContinueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ContinueDemo" />
+  <component name="RunManager" selected="Application.FibonacciNumbers">
+    <configuration name="DivisorsUsingWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.DivisorsUsingWhileLoop" />
       <module name="DSA to Development" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IfElse" />
+    <configuration name="FibonacciNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.FibonacciNumbers" />
       <module name="DSA to Development" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NestedSwitch" />
+    <configuration name="GCDOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.GCDOfNumber" />
       <module name="DSA to Development" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OmittingBreakStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OmittingBreakStatement" />
+    <configuration name="LCMOfTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.LCMOfTwoNumbers" />
       <module name="DSA to Development" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Switch" />
+    <configuration name="isPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.isPrime" />
       <module name="DSA to Development" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NestedSwitch" />
-        <item itemvalue="Application.OmittingBreakStatement" />
-        <item itemvalue="Application.Switch" />
-        <item itemvalue="Application.ContinueDemo" />
-        <item itemvalue="Application.IfElse" />
+        <item itemvalue="Application.FibonacciNumbers" />
+        <item itemvalue="Application.isPrime" />
+        <item itemvalue="Application.DivisorsUsingWhileLoop" />
+        <item itemvalue="Application.LCMOfTwoNumbers" />
+        <item itemvalue="Application.GCDOfNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -114,7 +159,9 @@
       <workItem from="1710889288464" duration="4145000" />
       <workItem from="1710947271117" duration="1839000" />
       <workItem from="1711047198507" duration="687000" />
-      <workItem from="1714237190736" duration="1830000" />
+      <workItem from="1714237190736" duration="8228000" />
+      <workItem from="1714929605668" duration="10108000" />
+      <workItem from="1715001396898" duration="5792000" />
     </task>
     <task id="LOCAL-00001" summary="Swap two numbers">
       <created>1709082455149</created>
@@ -151,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710954745761</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Pushing latest Changes to Repository.">
+      <created>1714243477424</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714243477424</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +216,7 @@
     <MESSAGE value="Adding more files" />
     <MESSAGE value="pushing latest changes" />
     <MESSAGE value="pushing latest Dev changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="pushing latest Dev changes" />
+    <MESSAGE value="Pushing latest Changes to Repository." />
+    <option name="LAST_COMMIT_MESSAGE" value="Pushing latest Changes to Repository." />
   </component>
 </project>
