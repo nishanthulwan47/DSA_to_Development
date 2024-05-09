@@ -5,28 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a9f776a-43ba-4f13-bd47-57188c2bdcf3" name="Changes" comment="Pushing latest Changes to Repository.">
-      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IllustrateUseOFEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/BreakAndContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/CountDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/DivisorsUsingWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/FactorialOfaNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/FibonacciNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/ForLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/For_Each.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/GCDOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/LCMOfTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/PairOFIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/Patterns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/TableOfaNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/TryAndError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/isPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MoreSwitchCaseProblems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TotalNoOfDaysInaMonth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetcodeTop150Questions/ValidParanthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetcodeTop150Questions/twoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetcodeTop150Questions/twoSum1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetcodeTop150Questions/twoSumBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodsFunctions/methods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArithemeticProgression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/ArithemeticProgression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AutoBoxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/AutoBoxing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BufferedReaderInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/BufferedReaderInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ByteStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/ByteStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ContinueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/ContinueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FormatInJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/FormatInJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GFG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/GFG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GeometricProgression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/GeometricProgression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/IfElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IfElseNaturalNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/IfElseNaturalNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IllustrateUseOFEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/IllustrateUseOFEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/JavaOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LAstDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/LAstDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops/ForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops/ForLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MoreSwitchCaseProblems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/MoreSwitchCaseProblems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NestedSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/NestedSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/OddEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OmittingBreakStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/OmittingBreakStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReadingInputFromConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/ReadingInputFromConsole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ScannerDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/ScannerDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ScannerDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/ScannerDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ScannerInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/ScannerInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SignedRightShift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/SignedRightShift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SumofNaturalNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/SumofNaturalNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TotalNoOfDaysInaMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/TotalNoOfDaysInaMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UnsignedRightShift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/UnsignedRightShift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bitwiseLogicalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/bitwiseLogicalOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sumofNNaturalNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/sumofNNaturalNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/twoSComplement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSolving/twoSComplement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,20 +83,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FibonacciNumbers">
-    <configuration name="DivisorsUsingWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.DivisorsUsingWhileLoop" />
-      <module name="DSA to Development" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Loops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ProblemSolving" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ValidParanthesis">
     <configuration name="FibonacciNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loops.FibonacciNumbers" />
       <module name="DSA to Development" />
@@ -92,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GCDOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.GCDOfNumber" />
+    <configuration name="ValidParanthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetcodeTop150Questions.ValidParanthesis" />
       <module name="DSA to Development" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loops.*" />
+          <option name="PATTERN" value="LeetcodeTop150Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LCMOfTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.LCMOfTwoNumbers" />
+    <configuration name="methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodsFunctions.methods" />
       <module name="DSA to Development" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loops.*" />
+          <option name="PATTERN" value="MethodsFunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +128,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.isPrime" />
+    <configuration name="twoSum1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetcodeTop150Questions.twoSum1" />
       <module name="DSA to Development" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loops.*" />
+          <option name="PATTERN" value="LeetcodeTop150Questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="twoSumBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetcodeTop150Questions.twoSumBinarySearch" />
+      <module name="DSA to Development" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetcodeTop150Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidParanthesis" />
+        <item itemvalue="Application.twoSumBinarySearch" />
+        <item itemvalue="Application.twoSum1" />
+        <item itemvalue="Application.methods" />
         <item itemvalue="Application.FibonacciNumbers" />
-        <item itemvalue="Application.isPrime" />
-        <item itemvalue="Application.DivisorsUsingWhileLoop" />
-        <item itemvalue="Application.LCMOfTwoNumbers" />
-        <item itemvalue="Application.GCDOfNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +184,8 @@
       <workItem from="1711047198507" duration="687000" />
       <workItem from="1714237190736" duration="8228000" />
       <workItem from="1714929605668" duration="10108000" />
-      <workItem from="1715001396898" duration="5792000" />
+      <workItem from="1715001396898" duration="16532000" />
+      <workItem from="1715267657972" duration="2856000" />
     </task>
     <task id="LOCAL-00001" summary="Swap two numbers">
       <created>1709082455149</created>
@@ -205,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1714243477424</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Pushing latest Changes to Repository.">
+      <created>1715087891720</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715087891720</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
