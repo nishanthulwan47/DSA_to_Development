@@ -4,15 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a9f776a-43ba-4f13-bd47-57188c2bdcf3" name="Changes" comment="Leetcode Questions">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Basics1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/BasicsOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/CountDisntictElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/CountDisntictUsingNaiveApproach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/DistinctElementsUsingSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MultidimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/isSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodsFunctions/PrimeFactorization.java" afterDir="false" />
+    <list default="true" id="5a9f776a-43ba-4f13-bd47-57188c2bdcf3" name="Changes" comment="Pushing Array Changes from GeekForGeek">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FindAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/HashMapDisntinctElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Hashmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/JaggedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MaximumInAnArrayUsingStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MaximumOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ArrayDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/BitSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ComparatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/FileWriterDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/LambdaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/LinkedHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/LinkedHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/MenuDriven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/PriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/PropertyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/Streams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/StreamsJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/TokenizerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/TreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/TreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/hashmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStreams/AppendNewSourceFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStreams/BufferedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStreams/ByteDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStreams/CharArrayReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStreams/CharacterWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStreams/DataInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStreams/DataOutputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStreams/FileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStreams/PipedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStreams/PrintStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStreams/PrintStreamDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStreams/ReadFromOneFileCopy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,13 +85,13 @@
       <recent name="ProblemSolving" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DistinctElementsUsingSorting">
-    <configuration name="Basics1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Basics1" />
+  <component name="RunManager" selected="Application.DataInputStream">
+    <configuration name="DataInputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStreams.DataInputStream" />
       <module name="DSA to Development" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="JavaStreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountDisntictElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.CountDisntictElements" />
+    <configuration name="DataOutputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStreams.DataOutputStream" />
       <module name="DSA to Development" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="JavaStreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountDisntictUsingNaiveApproach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.CountDisntictUsingNaiveApproach" />
+    <configuration name="FileReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStreams.FileReader" />
       <module name="DSA to Development" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="JavaStreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DistinctElementsUsingSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.DistinctElementsUsingSorting" />
+    <configuration name="PrintStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStreams.PrintStreamDemo" />
       <module name="DSA to Development" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="JavaStreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultidimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.MultidimensionalArray" />
+    <configuration name="PrintStreamDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStreams.PrintStreamDemo1" />
       <module name="DSA to Development" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="JavaStreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DistinctElementsUsingSorting" />
-        <item itemvalue="Application.CountDisntictUsingNaiveApproach" />
-        <item itemvalue="Application.CountDisntictElements" />
-        <item itemvalue="Application.MultidimensionalArray" />
-        <item itemvalue="Application.Basics1" />
+        <item itemvalue="Application.DataInputStream" />
+        <item itemvalue="Application.DataOutputStream" />
+        <item itemvalue="Application.PrintStreamDemo1" />
+        <item itemvalue="Application.FileReader" />
+        <item itemvalue="Application.PrintStreamDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +183,14 @@
       <workItem from="1714929605668" duration="10108000" />
       <workItem from="1715001396898" duration="16532000" />
       <workItem from="1715267657972" duration="5846000" />
-      <workItem from="1715447404714" duration="3996000" />
+      <workItem from="1715447404714" duration="6563000" />
+      <workItem from="1715611791412" duration="6097000" />
+      <workItem from="1715900095472" duration="300000" />
+      <workItem from="1715900427531" duration="1717000" />
+      <workItem from="1715941897561" duration="161000" />
+      <workItem from="1716040013017" duration="2645000" />
+      <workItem from="1716239790904" duration="28969000" />
+      <workItem from="1716460855843" duration="5385000" />
     </task>
     <task id="LOCAL-00001" summary="Swap two numbers">
       <created>1709082455149</created>
@@ -213,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715277050584</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Pushing Array Changes from GeekForGeek">
+      <created>1715455134145</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715455134145</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +268,7 @@
     <MESSAGE value="pushing latest Dev changes" />
     <MESSAGE value="Pushing latest Changes to Repository." />
     <MESSAGE value="Leetcode Questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode Questions" />
+    <MESSAGE value="Pushing Array Changes from GeekForGeek" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pushing Array Changes from GeekForGeek" />
   </component>
 </project>
